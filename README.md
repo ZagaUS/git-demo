@@ -2,4 +2,4 @@
 
 Hari adds more meaningful documentation
 
-Additional information
+More additional information
